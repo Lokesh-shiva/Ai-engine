@@ -1,0 +1,5 @@
+# Ignore credentials and secrets
+ai-engine/credentials.json
+ai-engine/.env
+huggingface/token
+huggingface/stored_tokens
